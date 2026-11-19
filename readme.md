@@ -1,7 +1,7 @@
 # 多时相遥感水稻产量预测
 数据来源：USDA-ARS水稻UAS多时相数据集（https://datadryad.org/dataset/doi:10.5061/dryad.v41ns1s4z）
 
-运行程序：
+运行程序：https://github.com/DeeepMind/Rice_yield_forecasting.git
 任务类型：基于无人机、多光谱时序和气象数据预测水稻产量
 运行环境：Python 3.11.8
 ## 1. 数据集内容
